@@ -1,0 +1,15 @@
+PODS:
+  - UMengAnalytics-NO-IDFA (4.0.5)
+  - UMengSocialCOM (5.2.1)
+
+DEPENDENCIES:
+  - UMengAnalytics-NO-IDFA
+  - UMengSocialCOM
+
+SPEC CHECKSUMS:
+  UMengAnalytics-NO-IDFA: 965a219b05475ff2a4c09a164139a27bbaa0e25b
+  UMengSocialCOM: 074c135ce349aa4c8848d3fb8458757bcb6ffb67
+
+PODFILE CHECKSUM: e2fc44cfe91ed05ab124fd335e9c34422b710255
+
+COCOAPODS: 1.0.0
