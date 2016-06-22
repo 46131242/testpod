@@ -23,7 +23,7 @@
     
     NSString *str = [ViewController pinxCreator:@"24" withPinv:@"23"];
     NSLog(@"---%@",str);
-
+    
     NSString *str1 = [ViewController pinxCreator:str withPinv:@"23"];
     NSLog(@"---%@",str1);
 }
